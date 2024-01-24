@@ -10,6 +10,7 @@ if so you can download boombox like in nico's nextbots which created by me!
 
 # installation
 - download rbxl file and open it using roblox studio
+- read readme SERVER script in model, which contains some instructions
 
 # also
 - do not reupload my boombox somewhere without crediting me
